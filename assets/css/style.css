@@ -1,0 +1,65 @@
+/* TODOAssets:
+fonts:’Maven Pro’ , ‘Gilda Display’ 
+farbe: #3dc8d5, #8507e1, #ccc
+https://assets.website-files.com/5c8834f1555981170b2fd8b1/5c898cd67456ffcba141a5ff_PROJECTS.svg
+https://assets.website-files.com/5c898b1d37266625ec969a97/5d1a683945dd8900108648db_capa_pmu-grad.jpg
+https://assets.website-files.com/5c898b1d37266625ec969a97/5cc86e71ea28d87b5e98a204_scott-goodwill-408543%203-gradi.jpg
+https://assets.website-files.com/5c898b1d37266625ec969a97/5d1a62fd45dd8967e9861c83_christopher-campbell-40367-unsplash.jpg
+
+Hinweis: 
+linear-gradient
+:hover Selector*/
+* {
+    box-sizing: border-box;
+    font-family: 'Maven Pro';
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #fff;
+}
+
+h2 {}
+
+h3 {}
+
+p {}
+
+a {}
+
+ul {}
+
+li {}
+
+header {
+    background-color: #333;
+}
+
+header, section {
+    height: 100vh;
+
+}
+
+section p {
+    text-transform: uppercase;
+}
+
+section img {
+    border-radius: 15px;
+    width: 75%;
+    text-align: center;
+}
+
+
+.page_1 p {
+    text-transform: none;
+}
+
+.page_1 {}
+
+.page_2 {}
+
+.page_3 {}
+
+.page_4 {}
